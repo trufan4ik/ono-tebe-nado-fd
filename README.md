@@ -1,1 +1,1 @@
-https://github.com/trufan4ik/first-project
+git@github.com:trufan4ik/ono-tebe-nado-fd.git
