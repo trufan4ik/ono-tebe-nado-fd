@@ -17,7 +17,6 @@ body {
   gap: 35px;
   font-family: Raleway, sans-serif;
   font-weight: 400;
-  font-weight: normal;
   font-size: 18px;
   text-decoration-skip-ink: none;
   text-underline-offset: 4px;
@@ -49,7 +48,7 @@ body {
   height: 105px;
 }
 
-.header__link_active a {
+.header__link_active  {
   text-decoration: none;
 }
 
@@ -133,7 +132,6 @@ body {
   font-weight: 400;
   font-weight: normal;
   font-size: 22px;
-  line-height: 28px;
   letter-spacing: 0;
   text-transform: uppercase;
   color: #ffffff;
@@ -232,8 +230,6 @@ body {
   z-index: 2;
   width: 254px;
   font-family: Raleway, sans-serif;
-  font-weight: 400;
-  font-weight: normal;
   font-size: 20px;
   line-height: 120%;
   color: #ffffff;
@@ -254,7 +250,6 @@ body {
 .lots__look-more-link {
   font-family: Raleway, sans-serif;
   font-weight: 400;
-  font-weight: normal;
   font-size: 20px;
   margin-left: 40px;
   margin-top: 30px;
@@ -311,7 +306,6 @@ body {
   margin-top: 100px;
   font-family: Raleway, sans-serif;
   font-weight: 400;
-  font-weight: normal;
   font-size: 20px;
   line-height: 24px;
   margin-left: 25px;
